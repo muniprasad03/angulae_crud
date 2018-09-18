@@ -16,7 +16,7 @@ export class ListEmployeesComponent implements OnInit {
     phonenumber: "123",
     contactPreference: "phone",
     DateOfBirth: new Date( '10/12/1982'),
-    Department: "Production",
+    Department: "HR",
     isActive: true,
     photoPath: "assets/images/male1.png"
    },
@@ -28,7 +28,7 @@ export class ListEmployeesComponent implements OnInit {
     phonenumber: "123",
     contactPreference: "mail",
     DateOfBirth: new Date( '09/09/1982'),
-    Department: "Production",
+    Department: "IT",
     isActive: true,
     photoPath: "assets/images/male2.png"
    },
@@ -40,7 +40,7 @@ export class ListEmployeesComponent implements OnInit {
     phonenumber: "123",
     contactPreference: "phone",
     DateOfBirth: new Date( '10/12/1989'),
-    Department: "Production",
+    Department: "Admin",
     isActive: true,
     photoPath: "assets/images/female1.png"
    },
